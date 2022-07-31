@@ -1,7 +1,6 @@
 <div align="center"> 
 
 # 💫 About Me:
-Capstone
 
 
 ## 🌐 Socials:
