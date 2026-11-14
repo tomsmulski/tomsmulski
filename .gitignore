@@ -1,0 +1,11 @@
+# Local previews and editor state
+.preview/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+node_modules/
+*.log
+.env
+.env.*
+!.env.example
