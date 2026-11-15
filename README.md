@@ -32,10 +32,11 @@ My current projects live under **MAK Digital Studio** — from practical everyda
 <p><strong>Android · C++23 · Qt / QML</strong><br>Practical app · Active development</p>
 </td>
 <td valign="top" width="50%">
-<img src="assets/doghunt.webp" width="68" height="68" alt="Dog Hunt: Pixel Puzzle app icon">
-<h3>Dog Hunt: Pixel Puzzle</h3>
+<a href="https://doggypixeleaters.makdigitalstudio.com/"><img src="assets/doggypixeleaters.webp" width="68" height="68" alt="Doggy Pixel Eaters app icon featuring Elly, Polly and Nelly"></a>
+<h3><a href="https://doggypixeleaters.makdigitalstudio.com/">Doggy Pixel Eaters</a></h3>
 <p>A little Chihuahua pack with a big appetite for puzzles. Pick coloured packs, clear paths and collect pixel treats in the right order.</p>
 <p><strong>Android · C++23 · OpenGL ES</strong><br>Pixel puzzle · In development</p>
+<p><a href="https://doggypixeleaters.makdigitalstudio.com/">Website · DE / EN ↗</a></p>
 </td>
 </tr>
 <tr>
@@ -91,7 +92,7 @@ Public availability and download links will be announced when each project is re
 
 ## Hallo, ich bin Makenci
 
-Unter **MAK Digital Studio** entwickle ich Apps, Spiele und Software: **PferdePass**, **Dog Hunt: Pixel Puzzle**, **HeroFighters** und **Idle Galaxy Space Ship Fighters**.
+Unter **MAK Digital Studio** entwickle ich Apps, Spiele und Software: **PferdePass**, [**Doggy Pixel Eaters**](https://doggypixeleaters.makdigitalstudio.com/), **HeroFighters** und **Idle Galaxy Space Ship Fighters**.
 
 Mein Schwerpunkt liegt auf **C++**, nativen Anwendungen und den Werkzeugen dahinter. Dazu kommen Qt/QML, Android, Datenbanken und Webentwicklung. Ich mag Projekte, bei denen Technik, Gestaltung und eine konkrete Idee zusammenfinden.
 

@@ -1,6 +1,6 @@
 # Profile maintenance
 
-Updated: 14 November 2026.
+Updated: 15 November 2026.
 
 This repository supplies the public GitHub profile README for tomsmulski.
 Public developer name: Makenci. Studio: MAK Digital Studio.
@@ -22,3 +22,11 @@ Public developer name: Makenci. Studio: MAK Digital Studio.
 
 This profile repository was already public. No repository visibility has been
 changed. The adjacent website repository is maintained separately.
+
+## Doggy Pixel Eaters · 15 November 2026
+
+- Replaced the previous Dog Hunt: Pixel Puzzle name in the English card and German introduction.
+- New complete trio app icon from Doggy Pixel Eaters Game/art/app-icon-v6/trio-master.png, using the current 512×512 website WebP export. Elly, Polly and Nelly are all visible; this is not an adaptive foreground layer.
+- Card icon, heading and explicit Website link point to the user-supplied https://doggypixeleaters.makdigitalstudio.com/. The German project name links there too.
+- Retained development status, private-repository statement and all other project cards. No repository visibility changes, release promises or downloads added.
+- Local link targets and icon dimensions/content checked. The web lookup tool could not access the supplied URL; this is not a claim of a successful live-host availability check.
