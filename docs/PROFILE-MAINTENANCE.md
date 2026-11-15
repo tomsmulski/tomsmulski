@@ -37,3 +37,10 @@ changed. The adjacent website repository is maintained separately.
 - Linked the MAK logo and contact overview to https://makdigitalstudio.com/; added a header shortcut and linked all projects in the German introduction.
 - Updated obsolete website-preparation wording. Kept development status and private-source statements; no repository visibility changes or downloads.
 - Checked exact domain mappings, existing local image paths and HTML link markup. No external availability claim.
+
+## Discord communities · 15 November 2026
+
+- Studio Discord BMKurgjaCa added to the header and studio contact overview.
+- Game card links: Doggy TRqu25YKKy, HeroFighters hNqGumXM9M, Idle Galaxy 7RcXRxUw4E.
+- German introduction includes all four community links. Exact operator-supplied invite codes retained; no PferdePass invite invented.
+- Links and card mapping checked locally. No invite redeemed, no messages sent, no widgets or external tracking images added. Private project repositories unchanged.
