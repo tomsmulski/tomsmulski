@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="assets/mak-digital-studio.webp" width="290" alt="MAK Digital Studio">
+<a href="https://makdigitalstudio.com/"><img src="assets/mak-digital-studio.webp" width="290" alt="MAK Digital Studio"></a>
 
 ### Small ideas. Entire worlds.
 
@@ -13,7 +13,7 @@ I build native apps, indie games and the tools that bring them together.
 
 **C++ at the core. A whole world around it.**
 
-[LinkedIn](https://www.linkedin.com/in/thomas-smulski-670708243/) · [Get in touch](mailto:support@makdigitalstudio.com) · [Deutsch](#hallo-ich-bin-makenci)
+[Studio website](https://makdigitalstudio.com/) · [LinkedIn](https://www.linkedin.com/in/thomas-smulski-670708243/) · [Get in touch](mailto:support@makdigitalstudio.com) · [Deutsch](#hallo-ich-bin-makenci)
 
 </div>
 
@@ -26,10 +26,11 @@ My current projects live under **MAK Digital Studio** — from practical everyda
 <table>
 <tr>
 <td valign="top" width="50%">
-<img src="assets/pferdepass.webp" width="68" height="68" alt="PferdePass app icon">
-<h3>PferdePass</h3>
+<a href="https://pferdepass.makdigitalstudio.com/"><img src="assets/pferdepass.webp" width="68" height="68" alt="PferdePass app icon"></a>
+<h3><a href="https://pferdepass.makdigitalstudio.com/">PferdePass</a></h3>
 <p>A companion for everyday horse care. Profiles, health records, appointments, stable notes and backups, with data stored locally.</p>
 <p><strong>Android · C++23 · Qt / QML</strong><br>Practical app · Active development</p>
+<p><a href="https://pferdepass.makdigitalstudio.com/">Website · DE / EN ↗</a></p>
 </td>
 <td valign="top" width="50%">
 <a href="https://doggypixeleaters.makdigitalstudio.com/"><img src="assets/doggypixeleaters.webp" width="68" height="68" alt="Doggy Pixel Eaters app icon featuring Elly, Polly and Nelly"></a>
@@ -41,16 +42,18 @@ My current projects live under **MAK Digital Studio** — from practical everyda
 </tr>
 <tr>
 <td valign="top" width="50%">
-<img src="assets/herofighters.webp" width="68" height="68" alt="HeroFighters original app icon">
-<h3>HeroFighters</h3>
+<a href="https://herofighters.makdigitalstudio.com/"><img src="assets/herofighters.webp" width="68" height="68" alt="HeroFighters original app icon"></a>
+<h3><a href="https://herofighters.makdigitalstudio.com/">HeroFighters</a></h3>
 <p>A colourful fantasy action game with distinctive heroes, monsters, weapons and a growing world. Development includes dedicated tools for building its content.</p>
 <p><strong>Android · C++23 · Native tooling</strong><br>Fantasy action · In development</p>
+<p><a href="https://herofighters.makdigitalstudio.com/">Website · DE / EN ↗</a></p>
 </td>
 <td valign="top" width="50%">
-<img src="assets/idle-galaxy.webp" width="68" height="68" alt="Idle Galaxy Space Ship Fighters app icon">
-<h3>Idle Galaxy Space Ship Fighters</h3>
+<a href="https://idlegalaxyspaceshipfighters.makdigitalstudio.com/"><img src="assets/idle-galaxy.webp" width="68" height="68" alt="Idle Galaxy Space Ship Fighters app icon"></a>
+<h3><a href="https://idlegalaxyspaceshipfighters.makdigitalstudio.com/">Idle Galaxy Space Ship Fighters</a></h3>
 <p>Space combat meets idle progression. Pilot your ship, collect loot, build a fleet and improve its equipment between missions.</p>
 <p><strong>Android · C++23 · OpenGL ES</strong><br>Space / idle / action · In development</p>
+<p><a href="https://idlegalaxyspaceshipfighters.makdigitalstudio.com/">Website · DE / EN ↗</a></p>
 </td>
 </tr>
 </table>
@@ -81,8 +84,8 @@ I like understanding how the pieces fit: the app, the interface, the tools and t
 
 **MAK Digital Studio** is the home for my apps, games and software projects.
 
-- Studio domain: **makdigitalstudio.com** — website launch in preparation.
-- Project websites are being prepared in **German and English**.
+- Studio website: **[makdigitalstudio.com](https://makdigitalstudio.com/)** — German and English.
+- Each project card links to its own **German / English website**.
 - Project enquiries: **[support@makdigitalstudio.com](mailto:support@makdigitalstudio.com)**.
 - Professional contact: **[LinkedIn](https://www.linkedin.com/in/thomas-smulski-670708243/)**.
 
@@ -92,11 +95,11 @@ Public availability and download links will be announced when each project is re
 
 ## Hallo, ich bin Makenci
 
-Unter **MAK Digital Studio** entwickle ich Apps, Spiele und Software: **PferdePass**, [**Doggy Pixel Eaters**](https://doggypixeleaters.makdigitalstudio.com/), **HeroFighters** und **Idle Galaxy Space Ship Fighters**.
+Unter [**MAK Digital Studio**](https://makdigitalstudio.com/) entwickle ich Apps, Spiele und Software: [**PferdePass**](https://pferdepass.makdigitalstudio.com/), [**Doggy Pixel Eaters**](https://doggypixeleaters.makdigitalstudio.com/), [**HeroFighters**](https://herofighters.makdigitalstudio.com/) und [**Idle Galaxy Space Ship Fighters**](https://idlegalaxyspaceshipfighters.makdigitalstudio.com/).
 
 Mein Schwerpunkt liegt auf **C++**, nativen Anwendungen und den Werkzeugen dahinter. Dazu kommen Qt/QML, Android, Datenbanken und Webentwicklung. Ich mag Projekte, bei denen Technik, Gestaltung und eine konkrete Idee zusammenfinden.
 
-Die Projekte werden aktiv weiterentwickelt. **Ihre Repositories bleiben privat.** Hier zeige ich einen Einblick in meine Arbeit; öffentliche Downloads und die Studio-Websites folgen nach Freigabe.
+Die Projekte werden aktiv weiterentwickelt. **Ihre Repositories bleiben privat.** Hier zeige ich einen Einblick in meine Arbeit. Die verlinkten Websites stellen die Projekte auf Deutsch und Englisch vor; öffentliche Downloads folgen nach Freigabe.
 
 <div align="center">
 <br>
