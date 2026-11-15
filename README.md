@@ -29,7 +29,7 @@ My current projects live under **MAK Digital Studio** — from practical everyda
 <a href="https://pferdepass.makdigitalstudio.com/"><img src="assets/pferdepass.webp" width="68" height="68" alt="PferdePass app icon"></a>
 <h3><a href="https://pferdepass.makdigitalstudio.com/">PferdePass</a></h3>
 <p>A companion for everyday horse care. Profiles, health records, appointments, stable notes and backups, with data stored locally.</p>
-<p><strong>Android · C++23 · Qt / QML</strong><br>Practical app · Active development</p>
+<p><strong>Android · C++23 · Qt / QML</strong><br>Development complete · Google Play testing</p>
 <p><a href="https://pferdepass.makdigitalstudio.com/">Website · DE / EN ↗</a></p>
 </td>
 <td valign="top" width="50%">
@@ -102,7 +102,7 @@ Mein Schwerpunkt liegt auf **C++**, nativen Anwendungen und den Werkzeugen dahin
 
 Discord-Communities: [MAK Digital Studio](https://discord.gg/BMKurgjaCa) · [Doggy Pixel Eaters](https://discord.gg/TRqu25YKKy) · [HeroFighters](https://discord.gg/hNqGumXM9M) · [Idle Galaxy](https://discord.gg/7RcXRxUw4E).
 
-Die Projekte werden aktiv weiterentwickelt. **Ihre Repositories bleiben privat.** Hier zeige ich einen Einblick in meine Arbeit. Die verlinkten Websites stellen die Projekte auf Deutsch und Englisch vor; öffentliche Downloads folgen nach Freigabe.
+**PferdePass ist fertig entwickelt und befindet sich in der Testphase bei Google Play.** Die drei Spiele sind weiterhin in Entwicklung. **Ihre Repositories bleiben privat.** Hier zeige ich einen Einblick in meine Arbeit. Die verlinkten Websites stellen die Projekte auf Deutsch und Englisch vor; öffentliche Downloads folgen nach Freigabe.
 
 <div align="center">
 <br>

@@ -44,3 +44,7 @@ changed. The adjacent website repository is maintained separately.
 - Game card links: Doggy TRqu25YKKy, HeroFighters hNqGumXM9M, Idle Galaxy 7RcXRxUw4E.
 - German introduction includes all four community links. Exact operator-supplied invite codes retained; no PferdePass invite invented.
 - Links and card mapping checked locally. No invite redeemed, no messages sent, no widgets or external tracking images added. Private project repositories unchanged.
+
+## PferdePass status · 15 November 2026
+
+Operator confirmed development is complete and the app is in Google Play testing. Updated the English project card and German overview accordingly. Testing track/type was not specified; no production release, public availability or store download link claimed. The three games retain their development status. This update is based on the operator’s confirmation, not a Play Console inspection.
