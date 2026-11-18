@@ -35,6 +35,16 @@ Independent developer based in Germany. Apps, games and the tools that bring the
 </tr>
 </table>
 
+## BuildManager
+
+**One build workspace across my projects.**
+
+My native Windows tool for coordinating builds for **Rappelz and the Android/APK projects**. Build queues, workflow control, history and reports bring the work into one place.
+
+**Shared developer tooling · Maintained under my personal account**
+
+BuildManager sits alongside both organisations as a cross-project tool. Its source repository remains private.
+
 ## What I enjoy building
 
 Native applications, responsive interfaces and practical development tools. I like understanding the whole system: the app, its content, the tools and the data behind it.
@@ -58,7 +68,11 @@ The organisation profiles carry the detailed project introductions. **The projec
 Ich entwickle native Apps, Spiele und Werkzeuge – mit **C++** im Mittelpunkt und Interesse für das gesamte System dahinter.
 
 - **[MAK Digital Studio](https://github.com/makdigitalstudio):** meine eigenständigen Apps und Spiele sowie die eigene MakDigitalEngine. Projektvorstellungen und Communities findest du im Organisationsprofil.
-- **[Arcane RZ](https://github.com/arcane-rz):** mein unabhängiges Projekt rund um Rappelz mit Client-/Serverentwicklung, 14 Werkzeugen, eigenen Editoren und Launcher. Die Rechte am ursprünglichen Spiel liegen bei den jeweiligen Rechteinhabern.
+- **[Arcane RZ](https://github.com/arcane-rz):** mein unabhängiges Projekt rund um Rappelz mit Client-/Serverentwicklung, 13 Rappelz-Werkzeugen, eigenen Editoren und Launcher. Die Rechte am ursprünglichen Spiel liegen bei den jeweiligen Rechteinhabern.
+
+### BuildManager · Ein Werkzeug für beide Projektwelten
+
+Mein natives Windows-Tool bündelt die Build-Abläufe für **Rappelz und die Android-/APK-Projekte**: Warteschlangen, Steuerung, Verlauf und Berichte. Als übergreifendes Entwicklerwerkzeug bleibt es unter meinem persönlichen Account. Das Quell-Repository bleibt privat.
 
 Dazu kommen Qt/QML, Android, Datenbanken, Webentwicklung und Desktop-Tools. **Die Projekt-Repositories bleiben privat.** Die beiden Organisationen zeigen die Projekte; dieses Profil zeigt den Entwickler dahinter.
 

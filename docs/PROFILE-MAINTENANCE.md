@@ -61,3 +61,7 @@ Operator confirmed development is complete and the app is in Google Play testing
 ## Arcane card artwork · 18 November 2026
 
 Replaced the square avatar in the personal profile organisation card with the approved wide Arcane RZ README banner. Existing square avatar preserved; organisation/website destinations unchanged. Banner is a local repository asset, matching the organisation profile image.
+
+## BuildManager ownership · 18 November 2026
+
+Operator clarified that BuildManager serves both Rappelz and Android/APK projects. Added its own EN/DE section to the personal profile without linking the private source repository. Arcane now lists 13 Rappelz-focused tools and mentions BuildManager separately as shared personal-account tooling. Ownership and repository visibility unchanged.
