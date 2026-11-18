@@ -26,7 +26,7 @@ Independent developer based in Germany. Apps, games and the tools that bring the
 <p><a href="https://github.com/makdigitalstudio">Organisation ↗</a> · <a href="https://makdigitalstudio.com/">Website ↗</a> · <a href="https://discord.gg/BMKurgjaCa">Discord ↗</a></p>
 </td>
 <td valign="top" width="50%">
-<a href="https://github.com/arcane-rz"><img src="assets/arcane-rz.jpg" width="140" alt="Arcane RZ"></a>
+<a href="https://github.com/arcane-rz"><img src="assets/arcane-rz-readme-banner-v1.jpg" width="350" alt="Arcane RZ — horizontal fantasy logo"></a>
 <h3>Arcane RZ</h3>
 <p>My independent Rappelz-related project: client and server development, content editors and a native toolchain around an existing game world.</p>
 <p><strong>Client · Server · Native tools</strong></p>

@@ -57,3 +57,7 @@ Operator confirmed development is complete and the app is in Google Play testing
 - Both organisation profiles are published through their separate public .github repositories. These contain only profile text and approved assets. Source repositories remain private; no transfer or visibility changes requested.
 - New Arcane crest copied from the operator-approved organisation-avatar export. Existing MAK assets and LinkedIn/contact destinations retained.
 - Exact profiles, website/Discord destinations and local image assets checked. No new unconfirmed Arcane Discord or contact address added.
+
+## Arcane card artwork · 18 November 2026
+
+Replaced the square avatar in the personal profile organisation card with the approved wide Arcane RZ README banner. Existing square avatar preserved; organisation/website destinations unchanged. Banner is a local repository asset, matching the organisation profile image.
