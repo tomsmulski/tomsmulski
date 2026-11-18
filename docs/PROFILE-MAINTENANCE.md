@@ -1,6 +1,6 @@
 # Profile maintenance
 
-Updated: 15 November 2026.
+Updated: 18 November 2026.
 
 This repository supplies the public GitHub profile README for tomsmulski.
 Public developer name: Makenci. Studio: MAK Digital Studio.
@@ -17,8 +17,9 @@ Public developer name: Makenci. Studio: MAK Digital Studio.
 - Icons and the approved MAK logo are copied from the matching website assets.
   HeroFighters uses the complete Game/assets/art/launcher-icon-512.png, not the
   adaptive foreground layer. Original app assets are unchanged.
-- Changes to project status should be mirrored in both the English overview and
-  German introduction. Keep the profile concise and the project cards readable.
+- This personal profile introduces the developer and links to the two organisations.
+  Detailed project cards, statuses and communities live in makdigitalstudio/.github
+  and arcane-rz/.github. Keep English and German summaries aligned.
 
 This profile repository was already public. No repository visibility has been
 changed. The adjacent website repository is maintained separately.
@@ -48,3 +49,11 @@ changed. The adjacent website repository is maintained separately.
 ## PferdePass status · 15 November 2026
 
 Operator confirmed development is complete and the app is in Google Play testing. Updated the English project card and German overview accordingly. Testing track/type was not specified; no production release, public availability or store download link claimed. The three games retain their development status. This update is based on the operator’s confirmation, not a Play Console inspection.
+
+## Organisation profiles · 18 November 2026
+
+- Approved personal profile redesign introduces MAK Digital Studio and Arcane RZ in two visual cards, with English and German introductions and the existing technology overview.
+- MAK organisation owns the public project presentation including MakDigitalEngine. Arcane organisation introduces client, server and 14 tools; no public service/download promises.
+- Both organisation profiles are published through their separate public .github repositories. These contain only profile text and approved assets. Source repositories remain private; no transfer or visibility changes requested.
+- New Arcane crest copied from the operator-approved organisation-avatar export. Existing MAK assets and LinkedIn/contact destinations retained.
+- Exact profiles, website/Discord destinations and local image assets checked. No new unconfirmed Arcane Discord or contact address added.
